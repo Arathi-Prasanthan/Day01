@@ -116,9 +116,13 @@
 # Reverse a list without using reverse() or slicing ([::-1]).
 # numbers = [12,45, 8, 90, 32]
 
-numbers = [12,45, 8, 90, 32]
-for i in range(4,-1,-1):
-    print(numbers[i])
+# numbers = [12,45, 8, 90, 32]
+# for i in range(4,-1,-1):
+#     print(numbers[i])
+
+
+
+
 
    
     
